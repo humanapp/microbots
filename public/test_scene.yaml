@@ -1,0 +1,18 @@
+scene:
+  nodes:
+    -
+      type: rect
+      name: box 1
+      fillColor: blue
+      borderColor: black
+      static: true
+      pos:
+        x: 0
+        y: 0
+      dim:
+        width: 10
+        height: 20
+      angle: 1.2
+      bounciness: 0.3
+
+
